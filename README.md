@@ -95,6 +95,11 @@ $  npx stylelint "**/*.{css,scss}" --fix
 
 ## Authors
 
+👤 **Syeda Juveria Afreen**
+
+- GitHub: [@sja-thedude](https://github.com/sja-thedude)
+- Twitter [@sja_thedude](https://twitter.com/sja_thedude)
+- LinkedIn [sjathedude](https://www.linkedin.com/in//)
 
 
 
