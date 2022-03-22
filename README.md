@@ -101,6 +101,11 @@ $  npx stylelint "**/*.{css,scss}" --fix
 - Twitter [@sja_thedude](https://twitter.com/sja_thedude)
 - LinkedIn [sjathedude](https://www.linkedin.com/in//)
 
+👤 **Yishak**
+
+- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
+- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/) 
+
 
 
   
