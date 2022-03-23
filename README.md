@@ -112,6 +112,12 @@ $  npx stylelint "**/*.{css,scss}" --fix
 - Twitter: [@TinyefuzaG](https://twitter.com/GTinyefuza) 
 - LinkedIn: [Tinyefuza-Gordon](https://www.linkedin.com/in/tinyefuza-gordon/)
 
+👤 **Shahier Nashaat**
+
+- GitHub: [@githubhandle](https://github.com/ShahierNashaat)
+- Twitter: [@twitterhandle](https://twitter.com/ShahierN)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shahier-nashaat-73519313a/)
+
   
 ## 🤝 Contributing
 
