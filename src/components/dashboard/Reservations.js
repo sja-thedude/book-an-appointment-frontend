@@ -11,7 +11,6 @@ const Reservations = () => {
   const reservationdatas = useSelector((state) => state.reservationReducer);
   const { userId } = JSON.parse(window.localStorage.getItem('bookDoctorUser'));
   const userID = userId || 1;
-  console.log(userId, 'local storage');
   const { reservations } = reservationdatas;
 
   useEffect(() => {
