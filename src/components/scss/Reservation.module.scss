@@ -4,6 +4,7 @@
   @extend %main-properties;
 
   text-align: center;
+  background-color: $text-color;
 
   h2 {
     margin: 1rem auto 2rem;
@@ -44,6 +45,7 @@
     button {
       @extend %btn-color;
       @extend %btn-properties;
+      border-radius: 10px;
 
       font-size: 0.8rem;
       padding: 5px 12px;
