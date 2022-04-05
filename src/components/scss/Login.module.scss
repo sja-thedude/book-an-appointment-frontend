@@ -32,11 +32,11 @@
     @include d-flex(center);
 
     flex-direction: column;
-    // background-color: aqua;
 
     h4 {
-      color: $text-color;
+      color: $primary-color;
       margin: 0.1rem auto 1rem;
+      font-size: 1.5rem;
     }
 
     .form-group {
