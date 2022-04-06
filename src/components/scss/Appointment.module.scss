@@ -4,9 +4,16 @@
   @extend %main-properties;
 
   text-align: center;
+  background-color: $secondary-color;
+  // background-color: rgba(103, 145, 7, 0.788);
 
   h2 {
     margin: 1rem auto 2rem;
+    color: white;
+  }
+
+  h4 {
+    color: white;
   }
 
   ul {
@@ -31,7 +38,7 @@
   }
 
   h4 {
-    color: $sous-title;
+    color: white;
     margin-bottom: 1rem;
   }
 }
@@ -41,7 +48,7 @@ form {
     width: 80%;
     max-width: 400px;
     margin: 0 auto;
-    background-color: $secondary-color;
+    background-color: rgba(141, 197, 10, 0.788);
     padding: 4rem 3rem;
     border-radius: 8px;
 
@@ -60,6 +67,8 @@ form {
   .btn-appointment button {
     @extend %btn-color;
     @extend %btn-properties;
+    background-color: white;
+    color: rgba(141, 197, 10, 0.788);
   }
 }
 
