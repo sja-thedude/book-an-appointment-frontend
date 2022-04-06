@@ -47,6 +47,7 @@
 
     .doctor-lists {
       @include d-flex(space-around);
+
       margin-top: 2rem;
       height: 60vh;
     }
