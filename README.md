@@ -15,7 +15,7 @@ Additional description about the project and its features.
 - Apply React best practices and language style guides in code.
 - etc ...
 
-## Live Demo
+## Live
 
 [Live Link](https://frontend-doctor-api1.netlify.app/)
 
