@@ -10,7 +10,7 @@ import DoctorList from './components/dashboard/DoctorList';
 import BookAppointment from './components/dashboard/BookAppointment';
 import DoctorDetail from './components/dashboard/DoctorDetail';
 import ErrorPage from './components/landingPage/ErrorPage';
-import './app.css';
+import './App.css';
 import DetailReservation from './components/dashboard/DetailReservation';
 
 const SidebarLayout = () => (
