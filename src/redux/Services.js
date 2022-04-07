@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'https://book-doctor-appoinment1.herokuapp.com';
+const baseUrl = 'https://book-doctor-appointment2.herokuapp.com';
 
 export const fetchDoctors = async () => {
   try {

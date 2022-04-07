@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'https://book-doctor-appoinment1.herokuapp.com';
+const baseUrl = 'https://book-doctor-appointment2.herokuapp.com';
 
 const initialState = {
   name: '',
@@ -53,7 +53,7 @@ const hitAPIWithSignupDetails = (details) => async (dispatch) => {
   try {
     await axios({
       method: 'post',
-      url: 'https://book-doctor-appoinment1.herokuapp.com/users',
+      url: 'https://book-doctor-appointment2.herokuapp.com/users',
       data: {
         user: {
           email,
