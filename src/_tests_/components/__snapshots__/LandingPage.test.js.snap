@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Page renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="landingPage"
+      >
+        <div
+          id="ReactBackgroundSlider"
+        >
+          <figure
+            style="background-image: url(landing1.jpg); animation-delay: 0s;"
+          />
+          <figure
+            style="background-image: url(landing2.jpg); animation-delay: 12s;"
+          />
+        </div>
+        <div
+          class="landing"
+        >
+          <div
+            class="image"
+          >
+            <img
+              alt="logo"
+              src="logo_transparent.png"
+            />
+          </div>
+          <h1>
+            Welcome Back
+          </h1>
+          <h3>
+            Login to your account
+          </h3>
+          <a
+            href="/login"
+            style="text-decoration: none;"
+          >
+            <button
+              class="login"
+              type="button"
+            >
+              Login
+            </button>
+          </a>
+          <div
+            class="sousTitle"
+          >
+            <span />
+            <h4>
+              MY DOCTOR
+            </h4>
+            <span />
+          </div>
+          <p>
+            Don't have an account?
+             
+            <a
+              href="/register"
+              style="text-decoration: none;"
+            >
+              Register
+            </a>
+          </p>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="landingPage"
+    >
+      <div
+        id="ReactBackgroundSlider"
+      >
+        <figure
+          style="background-image: url(landing1.jpg); animation-delay: 0s;"
+        />
+        <figure
+          style="background-image: url(landing2.jpg); animation-delay: 12s;"
+        />
+      </div>
+      <div
+        class="landing"
+      >
+        <div
+          class="image"
+        >
+          <img
+            alt="logo"
+            src="logo_transparent.png"
+          />
+        </div>
+        <h1>
+          Welcome Back
+        </h1>
+        <h3>
+          Login to your account
+        </h3>
+        <a
+          href="/login"
+          style="text-decoration: none;"
+        >
+          <button
+            class="login"
+            type="button"
+          >
+            Login
+          </button>
+        </a>
+        <div
+          class="sousTitle"
+        >
+          <span />
+          <h4>
+            MY DOCTOR
+          </h4>
+          <span />
+        </div>
+        <p>
+          Don't have an account?
+           
+          <a
+            href="/register"
+            style="text-decoration: none;"
+          >
+            Register
+          </a>
+        </p>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
